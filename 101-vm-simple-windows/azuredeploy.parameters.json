@@ -2,14 +2,20 @@
   "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
   "contentVersion": "1.0.0.0",
   "parameters": {
+    "newStorageAccountName": {
+      "value": "MyDeployStorageACC"
+    },
     "adminUsername": {
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "DepL()WM@2016"
     },
     "dnsLabelPrefix": {
-      "value": "GEN-UNIQUE"
+      "value": "chmydepl4"
+    },
+    "location": {
+      "value": "west Europe"
     }
   }
 }
