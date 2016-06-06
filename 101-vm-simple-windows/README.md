@@ -7,4 +7,4 @@
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
-Näilä määrittelytiedostoilla tehdään uusi Windows server Länsi Europaan saliin (West Europe)
+Näillä määrittelytiedostoilla tehdään uusi Windows server Länsi Europaan saliin (West Europe)
